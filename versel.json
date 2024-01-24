@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "src": "/courses",
+        "dest": "./app.js"  
+      }
+    ]
+  }
+  

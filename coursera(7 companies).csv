@@ -1,0 +1,269 @@
+Course_Name,Company_Name,Ratings,Difficulty,Duration
+Google Data Analytics,Google,4.8,Beginner,3 - 6 Months
+Google Project Management:,Google,4.8,Beginner,3 - 6 Months
+IBM Data Science,IBM,4.6,Beginner,3 - 6 Months
+Google Digital Marketing & E-commerce,Google,4.8,Beginner,3 - 6 Months
+IBM Data Analyst,IBM,4.6,Beginner,3 - 6 Months
+Google IT Support,Google,4.8,Beginner,3 - 6 Months
+Google UX Design,Google,4.8,Beginner,3 - 6 Months
+IBM DevOps and Software Engineering,IBM,4.6,Beginner,3 - 6 Months
+IBM Applied AI,IBM,4.6,Beginner,3 - 6 Months
+IBM Full Stack Software Developer,IBM,4.6,Beginner,3 - 6 Months
+Introduction to Data Science,IBM,4.6,Beginner,1 - 3 Months
+IBM Data Engineering,IBM,4.6,Beginner,3 - 6 Months
+Key Technologies for Business,IBM,4.7,Beginner,3 - 6 Months
+Data Science Fundamentals with Python and SQL,IBM,4.6,Beginner,1 - 3 Months
+Deep Learning,DeepLearning.AI,4.8,Beginner,1 - 3 Months
+Data Engineering Foundations,IBM,4.6,Beginner,3 - 6 Months
+Applied Data Science,IBM,4.6,Beginner,3 - 6 Months
+IBM Back-End Development,IBM,4.6,Beginner,3 - 6 Months
+IBM AI Foundations for Business,IBM,4.7,Beginner,3 - 6 Months
+IBM Data Analytics with Excel and R,IBM,4.7,Beginner,3 - 6 Months
+Data Analysis and Visualization Foundations,IBM,4.7,Advanced,3 - 6 Months
+Applied Software Engineering Fundamentals,IBM,4.6,Beginner,3 - 6 Months
+AI Foundations for Everyone,IBM,4.7,Beginner,3 - 6 Months
+Generative AI with Large Language Models,DeepLearning.AI,4.8,Beginner,1 - 3 Months
+Cloud Application Development Foundations,IBM,4.6,Beginner,3 - 6 Months
+"DevOps, Cloud, and Agile Foundations",IBM,4.7,Beginner,3 - 6 Months
+Google Advanced Data Analytics,Google,4.7,Beginner,3 - 6 Months
+IBM IT Support,IBM,4.7,Beginner,1 - 4 Weeks
+Generative AI Fundamentals,IBM,4.7,Beginner,3 - 6 Months
+Information Technology (IT) and Cloud Fundamentals,IBM,4.7,Intermediate,1 - 3 Months
+Meta Front-End Developer,Meta,4.7,Beginner,1 - 4 Weeks
+Generative AI for Everyone,DeepLearning.AI,4.9,Intermediate,3 - 6 Months
+IBM Data Warehouse Engineer,IBM,4.7,Beginner,1 - 4 Weeks
+Foundations of Cybersecurity,Google,4.9,Beginner,1 - 3 Months
+Microsoft Power BI Data Analyst,Microsoft,4.6,Beginner,1 - 3 Months
+Generative AI for Software Developers,IBM,4.7,Beginner,3 - 6 Months
+Foundations of Project Management,Google,4.9,Beginner,1 - 4 Weeks
+IBM AI Engineering,IBM,4.6,Beginner,3 - 6 Months
+Supervised Machine Learning: Regression and Classification,DeepLearning.AI,4.9,Beginner,3 - 6 Months
+"Foundations: Data, Data, Everywhere",Google,4.8,Beginner,3 - 6 Months
+Mathematics for Machine Learning and Data Science,DeepLearning.AI,4.6,Intermediate,3 - 6 Months
+Google IT Automation with Python,Google,4.7,Beginner,3 - 6 Months
+"BI Foundations with SQL, ETL and Data Warehousing",IBM,4.6,Beginner,3 - 6 Months
+AI For Everyone,DeepLearning.AI,4.8,Beginner,3 - 6 Months
+IBM Full-Stack JavaScript Developer,IBM,4.5,Beginner,3 - 6 Months
+IBM Applied DevOps Engineering,IBM,4.7,Beginner,1 - 3 Months
+IBM Cybersecurity Analyst,IBM,4.6,Beginner,3 - 6 Months
+IBM Front-End Developer,IBM,4.6,Intermediate,3 - 6 Months
+IBM Back-end JavaScript Developer,IBM,4.5,Beginner,3 - 6 Months
+Technical Support Fundamentals,Google,4.8,Advanced,3 - 6 Months
+Meta Social Media Marketing,Meta,4.8,Beginner,1 - 4 Weeks
+IT Fundamentals for Cybersecurity,IBM,4.6,Beginner,3 - 6 Months
+DeepLearning.AI TensorFlow Developer,DeepLearning.AI,4.7,Beginner,3 - 6 Months
+Meta React Native,Meta,4.7,Beginner,3 - 6 Months
+Natural Language Processing,DeepLearning.AI,4.6,Beginner,3 - 6 Months
+Foundations of Digital Marketing and E-commerce,Google,4.8,Beginner,1 - 4 Weeks
+Machine Learning Engineering for Production (MLOps),DeepLearning.AI,4.7,Advanced,3 - 6 Months
+Play It Safe: Manage Security Risks,Google,4.8,Beginner,1 - 4 Weeks
+Meta Back-End Developer,Meta,4.7,Beginner,1 - 4 Weeks
+Meta Android Developer,Meta,4.6,Beginner,3 - 6 Months
+Meta iOS Developer,Meta,4.7,Beginner,1 - 3 Months
+Foundations of User Experience (UX) Design,Google,4.8,Beginner,1 - 4 Weeks
+Google Business Intelligence,Google,4.7,Beginner,3 - 6 Months
+Project Initiation: Starting a Successful Project,Google,4.8,Beginner,3 - 6 Months
+Ask Questions to Make Data-Driven Decisions,Google,4.7,Beginner,1 - 4 Weeks
+Meta Database Engineer,Meta,4.6,Intermediate,3 - 6 Months
+Microsoft Cybersecurity Analyst,Microsoft,4.7,Intermediate,1 - 4 Weeks
+The Bits and Bytes of Computer Networking,Google,4.7,Intermediate,3 - 6 Months
+Advanced Learning Algorithms,DeepLearning.AI,4.9,Intermediate,3 - 6 Months
+Microsoft 365 Fundamentals,Microsoft,4.7,Beginner,3 - 6 Months
+Connect and Protect: Networks and Network Security,Google,4.8,Intermediate,3 - 6 Months
+IBM Machine Learning,IBM,4.6,Intermediate,3 - 6 Months
+Neural Networks and Deep Learning,DeepLearning.AI,4.9,Beginner,3 - 6 Months
+Preparing for Google Cloud Certification: Cloud Architect,Google Cloud,4.7,Beginner,3 - 6 Months
+Preparing for Google Cloud Certification: Cloud Engineer,Google Cloud,4.7,Beginner,3 - 6 Months
+Preparing for Google Cloud Certification: Machine Learning Engineer,Google Cloud,4.6,Beginner,3 - 6 Months
+IBM Introduction to Machine Learning,IBM,4.6,Beginner,3 - 6 Months
+Architecting with Google Compute Engine,Google Cloud,4.7,Beginner,3 - 6 Months
+"JavaScript Programming with React, Node & MongoDB",IBM,4.4,Beginner,1 - 3 Months
+Prepare Data for Exploration,Google,4.8,Beginner,3 - 6 Months
+Preparing for Google Cloud Certification: Cloud Data Engineer,Google Cloud,4.6,Beginner,3 - 6 Months
+AnÃ¡lisis de Datos de Google,Google,4.8,Beginner,3 - 6 Months
+"Data Engineering, Big Data, and Machine Learning on GCP",Google Cloud,4.6,Intermediate,3 - 6 Months
+Preparing for Google Cloud Certification: Cloud DevOps Engineer,Google Cloud,4.7,Beginner,3 - 6 Months
+Google Cloud Database Engineer,Google Cloud,4.7,Beginner,3 - 6 Months
+Introduction to Generative AI,Google Cloud,4.6,Beginner,3 - 6 Months
+Preparing for Google Cloud Certification: Cloud Security Engineer,Google Cloud,4.7,Intermediate,3 - 6 Months
+Ciberseguridad de Google,Google,4.9,Beginner,1 - 3 Months
+Architecting with Google Kubernetes Engine,Google Cloud,4.7,Beginner,1 - 4 Weeks
+"Python for Data Science, AI & Development",IBM,4.6,Intermediate,3 - 6 Months
+Tools of the Trade: Linux and SQL,Google,4.8,Beginner,1 - 3 Months
+AWS Cloud Solutions Architect,Amazon Web Services,4.8,Beginner,3 - 6 Months
+AWS Cloud Technology Consultant,Amazon Web Services,4.8,Intermediate,3 - 6 Months
+Preparing for Google Cloud Certification: Cloud Developer,Google Cloud,4.7,Intermediate,3 - 6 Months
+AWS Fundamentals,Amazon Web Services,4.8,Beginner,3 - 6 Months
+Linear Algebra for Machine Learning and Data Science,DeepLearning.AI,4.5,Intermediate,3 - 6 Months
+Preparing for Google Cloud Certification: Cloud Network Engineer,Google Cloud,4.7,Beginner,1 - 4 Weeks
+Project Planning: Putting It All Together,Google,4.8,Beginner,1 - 4 Weeks
+Networking in Google Cloud,Google Cloud,4.7,Beginner,3 - 6 Months
+Developing Applications with Google Cloud,Google Cloud,4.7,Intermediate,3 - 6 Months
+Security in Google Cloud,Google Cloud,4.7,Beginner,1 - 3 Months
+Attract and Engage Customers with Digital Marketing,Google,4.8,Beginner,3 - 6 Months
+What is Data Science?,IBM,4.7,Beginner,1 - 4 Weeks
+Introduction to Data Analytics,IBM,4.8,Beginner,3 - 6 Months
+"Start the UX Design Process: Empathize, Define, and Ideate",Google,4.8,Beginner,3 - 6 Months
+DevOps on AWS,Amazon Web Services,4.8,Beginner,3 - 6 Months
+Security Analyst Fundamentals,IBM,4.7,Beginner,3 - 6 Months
+Process Data from Dirty to Clean,Google,4.8,Beginner,3 - 6 Months
+Agile Project Management,Google,4.8,Intermediate,1 - 3 Months
+"Unsupervised Learning, Recommenders, Reinforcement Learning",DeepLearning.AI,4.9,Beginner,3 - 6 Months
+Google Marketing Digital e E-Commerce,Google,4.9,Mixed,1 - 3 Months
+Generative Adversarial Networks (GANs),DeepLearning.AI,4.7,Beginner,1 - 4 Weeks
+Meta Marketing Analytics,Meta,4.7,Beginner,1 - 3 Months
+TensorFlow: Advanced Techniques,DeepLearning.AI,4.8,Intermediate,3 - 6 Months
+Introduction to Artificial Intelligence (AI),IBM,4.7,Beginner,1 - 3 Months
+"NoSQL, Big Data, and Spark Foundations",IBM,4.4,Beginner,1 - 3 Months
+AI for Medicine,DeepLearning.AI,4.7,Beginner,3 - 6 Months
+Generative AI: Introduction and Applications,IBM,4.6,Beginner,3 - 6 Months
+Operating Systems and You: Becoming a Power User,Google,4.7,Beginner,1 - 3 Months
+AI for Good,DeepLearning.AI,4.8,Beginner,1 - 4 Weeks
+Crash Course on Python,Google,4.8,Beginner,3 - 6 Months
+Project Execution: Running the Project,Google,4.8,Beginner,3 - 6 Months
+Applied Data Science with R,IBM,4.5,Beginner,1 - 3 Months
+"Assets, Threats, and Vulnerabilities",Google,4.8,Intermediate,3 - 6 Months
+"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",DeepLearning.AI,4.9,Beginner,3 - 6 Months
+Analyze Data to Answer Questions,Google,4.6,Beginner,3 - 6 Months
+Machine Learning on Google Cloud,Google Cloud,4.5,Beginner,1 - 4 Weeks
+Microsoft Azure Data Engineering Associate (DP-203),Microsoft,4.4,Beginner,3 - 6 Months
+Cybersecurity Fundamentals,IBM,4.8,Intermediate,3 - 6 Months
+Data Analysis with R Programming,Google,4.8,Beginner,1 - 4 Weeks
+People and Soft Skills for Professional and Personal Success,IBM,4.6,Intermediate,3 - 6 Months
+Getting started with Google Workspace,Google Cloud,4.7,Beginner,3 - 6 Months
+Tools for Data Science,IBM,4.5,Beginner,1 - 3 Months
+Sound the Alarm: Detection and Response,Google,4.8,Beginner,1 - 4 Weeks
+Machine Learning with Python,IBM,4.7,Beginner,1 - 4 Weeks
+Excel Basics for Data Analysis,IBM,4.8,Intermediate,3 - 6 Months
+Capstone: Applying Project Management in the Real World,Google,4.8,Intermediate,1 - 4 Weeks
+Google Project Management,Google,4.6,Beginner,3 - 6 Months
+System Administration and IT Infrastructure Services,Google,4.7,Intermediate,3 - 6 Months
+Share Data Through the Art of Visualization,Google,4.6,Beginner,1 - 4 Weeks
+Convolutional Neural Networks,DeepLearning.AI,4.9,Beginner,1 - 3 Months
+IBM Mainframe Developer,IBM,4.6,Advanced,1 - 3 Months
+Introduction to Cloud Computing,IBM,4.6,Beginner,1 - 3 Months
+Sequence Models,DeepLearning.AI,4.8,Beginner,3 - 6 Months
+Google Cloud Digital Leader Training,Google Cloud,4.8,Intermediate,3 - 6 Months
+From Likes to Leads: Interact with Customers Online,Google,4.8,Beginner,1 - 4 Weeks
+Foundations of Data Science,Google,4.7,Beginner,3 - 6 Months
+Foundations of Business Intelligence,Google,4.8,Advanced,1 - 3 Months
+Natural Language Processing with Classification and Vector Spaces,DeepLearning.AI,4.6,Beginner,3 - 6 Months
+Automate Cybersecurity Tasks with Python,Google,4.8,Beginner,3 - 6 Months
+Databases and SQL for Data Science with Python,IBM,4.6,Beginner,3 - 6 Months
+Build Wireframes and Low-Fidelity Prototypes,Google,4.9,Beginner,1 - 4 Weeks
+Google Data Analytics,Google,4.4,Mixed,1 - 4 Weeks
+Introduction to Machine Learning in Production,DeepLearning.AI,4.8,Intermediate,3 - 6 Months
+Introduction to Social Media Marketing,Meta,4.8,Mixed,1 - 4 Weeks
+Creating Business Value with Data and Looker,Google Cloud,4.7,Intermediate,1 - 3 Months
+Generative AI: Prompt Engineering Basics,IBM,4.8,Beginner,1 - 3 Months
+Preparing  Data for Analysis with Microsoft Excel,Microsoft,4.7,Beginner,1 - 3 Months
+Microsoft Azure Fundamentals AZ-900 Exam Prep,Microsoft,4.6,Beginner,3 - 6 Months
+"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",DeepLearning.AI,4.8,Beginner,1 - 4 Weeks
+Data Analysis with Python,IBM,4.7,Beginner,3 - 6 Months
+Put It to Work: Prepare for Cybersecurity Jobs,Google,4.8,Intermediate,3 - 6 Months
+Introduction to Front-End Development,Meta,4.8,Beginner,1 - 4 Weeks
+IT Security: Defense against the digital dark arts,Google,4.8,Mixed,1 - 4 Weeks
+Python Project for Data Science,IBM,4.5,Beginner,1 - 3 Months
+Get Started with Python,Google,4.8,Intermediate,3 - 6 Months
+Introduction to Cybersecurity Tools & Cyber Attacks,IBM,4.6,Beginner,3 - 6 Months
+Microsoft Azure Data Scientist Associate (DP-100),Microsoft,4.4,Beginner,1 - 4 Weeks
+Conduct UX Research and Test Early Concepts,Google,4.8,Beginner,3 - 6 Months
+Work Smarter with Microsoft Excel,Microsoft,4.7,Beginner,1 - 4 Weeks
+Think Outside the Inbox: Email Marketing,Google,4.8,Beginner,1 - 3 Months
+Create High-Fidelity Designs and Prototypes in Figma,Google,4.8,Intermediate,3 - 6 Months
+Preparation for CompTIA A+ Certification,IBM,4.5,Beginner,1 - 4 Weeks
+Machine Learning for Trading,Google Cloud,3.9,Beginner,1 - 3 Months
+Data Science Methodology,IBM,4.6,Beginner,1 - 3 Months
+Introduction to Project Management,IBM,4.8,Intermediate,3 - 6 Months
+Google IT Support,Google,4.5,Beginner,1 - 4 Weeks
+AWS Cloud Practitioner Essentials,Amazon Web Services,4.8,Beginner,3 - 6 Months
+Probability & Statistics for Machine Learning & Data Science,DeepLearning.AI,4.6,Beginner,3 - 6 Months
+Data Visualization and Dashboards with Excel and Cognos,IBM,4.7,Beginner,3 - 6 Months
+AWS Cloud Technical Essentials,Amazon Web Services,4.8,Beginner,1 - 3 Months
+Google Project Management (PT),Google,4.9,Advanced,3 - 6 Months
+Introduction to Data Engineering,IBM,4.7,Beginner,3 - 6 Months
+Microsoft Azure Data Fundamentals DP-900 Exam Prep,Microsoft,4.7,Beginner,3 - 6 Months
+Advanced Data Science with IBM,IBM,4.3,Mixed,1 - 3 Months
+Google Project Management (DE),Google,4.3,Beginner,3 - 6 Months
+Google UX Design (PT),Google,4.9,Beginner,3 - 6 Months
+Build Dynamic User Interfaces (UI) for Websites,Google,4.8,Beginner,3 - 6 Months
+Convolutional Neural Networks in TensorFlow,DeepLearning.AI,4.7,Beginner,3 - 6 Months
+Assess for Success: Marketing Analytics and Measurement,Google,4.6,Beginner,1 - 3 Months
+Introduction to Large Language Models,Google Cloud,4.3,Beginner,1 - 4 Weeks
+Design a User Experience for Social Good & Prepare for Jobs,Google,4.9,Mixed,1 - 4 Weeks
+Programming with JavaScript,Meta,4.7,Mixed,1 - 3 Months
+Google Cloud Fundamentals: Core Infrastructure,Google Cloud,4.7,Beginner,1 - 4 Weeks
+Microsoft Windows Defender and Firewall for Beginners,IBM,4.2,Mixed,1 - 3 Months
+Site Reliability Engineering: Measuring and Managing Reliability,Google Cloud,4.5,Beginner,1 - 4 Weeks
+IBM z/OS Mainframe Practitioner,IBM,4.7,Mixed,1 - 3 Months
+The Path to Insights: Data Models and Pipelines,Google,4.7,Beginner,3 - 6 Months
+Harnessing the Power of Data with Power BI,Microsoft,4.5,Intermediate,3 - 6 Months
+Introduction to DevOps,IBM,4.8,Beginner,1 - 3 Months
+Natural Language Processing with Probabilistic Models,DeepLearning.AI,4.7,Advanced,1 - 3 Months
+"Introduction to Web Development with HTML, CSS, JavaScript",IBM,4.6,Beginner,3 - 6 Months
+Google IT Support (Deutsch),Google,4.7,Beginner,3 - 6 Months
+Building AI Powered Chatbots Without Programming,IBM,4.8,Beginner,3 - 6 Months
+Microsoft Azure AI Fundamentals AI-900 Exam Prep,Microsoft,4.6,Beginner,1 - 4 Weeks
+AI for Medical Diagnosis,DeepLearning.AI,4.7,Mixed,1 - 3 Months
+Linux and Private Cloud Administration on IBM Power Systems,IBM,4.8,Beginner,1 - 3 Months
+"Sequences, Time Series and Prediction",DeepLearning.AI,4.7,Beginner,3 - 6 Months
+Introduction to Deep Learning & Neural Networks with Keras,IBM,4.7,Advanced,1 - 3 Months
+Natural Language Processing in TensorFlow,DeepLearning.AI,4.6,Mixed,1 - 3 Months
+Introduction to Software Engineering,IBM,4.7,Intermediate,1 - 3 Months
+Introduction to Computer Vision and Image Processing,IBM,4.3,Beginner,3 - 6 Months
+Go Beyond the Numbers: Translate Data into Insights,Google,4.8,Mixed,1 - 3 Months
+Organizational Change and Culture for Adopting Google Cloud,Google Cloud,4.7,Beginner,1 - 3 Months
+Exploratory Data Analysis for Machine Learning,IBM,4.6,Beginner,1 - 3 Months
+AI and Public Health,DeepLearning.AI,4.8,Intermediate,1 - 3 Months
+Version Control,Meta,4.6,Advanced,3 - 6 Months
+Deep Neural Networks with PyTorch,IBM,4.4,Beginner,1 - 3 Months
+Build Basic Generative Adversarial Networks (GANs),DeepLearning.AI,4.7,Intermediate,1 - 4 Weeks
+Hands-on Introduction to Linux Commands and Shell Scripting,IBM,4.7,Beginner,1 - 3 Months
+Introduction to Computers and Operating Systems and Security,Microsoft,4.8,Beginner,1 - 4 Weeks
+Natural Language Processing with Attention Models,DeepLearning.AI,4.4,Beginner,1 - 4 Weeks
+Social Media Management,Meta,4.9,Beginner,3 - 6 Months
+"Decisions, Decisions: Dashboards and Reports",Google,4.8,Intermediate,1 - 3 Months
+Introduction to Agile Development and Scrum,IBM,4.9,Intermediate,3 - 6 Months
+Satisfaction Guaranteed: Develop Customer Loyalty Online,Google,4.8,Beginner,3 - 6 Months
+"Extract, Transform and Load Data in Power BI",Microsoft,4.4,Beginner,1 - 4 Weeks
+Developing AI Applications with Python and Flask,IBM,4.3,Beginner,3 - 6 Months
+Natural Language Processing with Sequence Models,DeepLearning.AI,4.5,Mixed,1 - 3 Months
+Marketing digital e e-commerce do Google,Google,4.9,Mixed,1 - 4 Weeks
+Getting Started with Git and GitHub,IBM,4.6,Beginner,1 - 4 Weeks
+The Power of Statistics,Google,4.8,Intermediate,1 - 4 Weeks
+From Data to Insights with Google Cloud,Google Cloud,4.6,Beginner,3 - 6 Months
+Microsoft Azure Developer Associate (AZ-204),Microsoft,4.6,Mixed,1 - 3 Months
+Introduction to Responsible AI,Google Cloud,4.6,Beginner,3 - 6 Months
+Google Data Analytics (DE),Google,4.4,Beginner,3 - 6 Months
+Data Analysis and Visualization with Power BI,Microsoft,4.6,Beginner,1 - 4 Weeks
+Google UX Design,Google,4.7,Beginner,3 - 6 Months
+Machine Learning Modeling Pipelines in Production,DeepLearning.AI,4.4,Beginner,1 - 4 Weeks
+Microsoft Power Platform Fundamentals,Microsoft,4.3,Mixed,1 - 3 Months
+Digital Transformation Using AI/ML with Google Cloud,Google Cloud,4.6,Beginner,1 - 3 Months
+Using Python to Interact with the Operating System,Google,4.7,Beginner,3 - 6 Months
+Marketing en redes sociales de Meta,Meta,4.9,Intermediate,3 - 6 Months
+Developing Front-End Apps with React,IBM,4.3,Beginner,1 - 4 Weeks
+Google UX Design (DE),Google,4.4,Beginner,1 - 3 Months
+Customer Experiences with Contact Center AI - Dialogflow CX,Google Cloud,4.4,Advanced,3 - 6 Months
+"Cybersecurity Roles, Processes & Operating System Security",IBM,4.6,Beginner,1 - 4 Weeks
+Building Deep Learning Models with TensorFlow,IBM,4.4,Beginner,1 - 3 Months
+Generative AI: Foundation Models and Platforms,IBM,4.8,Intermediate,3 - 6 Months
+Deploying Machine Learning Models in Production,DeepLearning.AI,4.5,Beginner,1 - 4 Weeks
+Introduction to Hardware and Operating Systems,IBM,4.8,Intermediate,1 - 4 Weeks
+Introduction to Technical Support,IBM,4.8,Beginner,1 - 3 Months
+Introduction to Back-End Development,Meta,4.8,Beginner,3 - 6 Months
+Suporte em TI do Google,Google,4.9,Beginner,3 - 6 Months
+Principles of UX/UI Design,Meta,4.7,Beginner,1 - 3 Months
+Advanced React,Meta,4.7,Intermediate,3 - 6 Months
+HTML and CSS in depth,Meta,4.7,Mixed,1 - 3 Months
+Developing APIs with Google Cloud's Apigee API Platform,Google Cloud,4.7,Intermediate,3 - 6 Months
+Programming in Python,Meta,4.7,Advanced,3 - 6 Months
+Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate æ¥æ¬èªç,Google Cloud,4.4,Beginner,1 - 3 Months
+Python Project for Data Engineering,IBM,4.6,Beginner,1 - 3 Months
+Customer Experiences with Contact Center AI - Dialogflow ES,Google Cloud,4.5,Beginner,1 - 3 Months
+AI Capstone Project with Deep Learning,IBM,4.5,Mixed,1 - 4 Weeks
+Getting Started with Front-End and Web Development,IBM,4.4,Intermediate,3 - 6 Months
+IBM Data Analyst Capstone Project,IBM,4.6,Beginner,3 - 6 Months
+AI and Climate Change,DeepLearning.AI,4.8,Beginner,3 - 6 Months
+"ETL and Data Pipelines with Shell, Airflow and Kafka",IBM,4.5,Beginner,3 - 6 Months
+Coding for Beginners: An Easy Introduction,IBM,3,Beginner,1 - 4 Weeks
