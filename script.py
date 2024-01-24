@@ -1,10 +1,13 @@
 import pandas as pd
 import sys
 import json
-
+import os
 
 file = pd.read_csv('./coursera(7 companies).csv')
 
+company = os.environ.get('COURSE_COMPANY')
+difficulty = os.environ.get('COURSE_DIFFICULTY')
+rating = float(os.environ.get('COURSE_RATING'))
 
 def filter_df(input_df, company, difficulty, rating):
     try:
@@ -18,13 +21,6 @@ def filter_df(input_df, company, difficulty, rating):
         print("Enter Correct compName")
         return pd.DataFrame()
 
-
-company = sys.argv[1]
-difficulty = sys.argv[2]
-rating= float(sys.argv[3])
-
-
 filtered_data = filter_df(file, company, difficulty, rating)
-
 
 print(json.dumps(filtered_data.to_dict(orient='records')))
