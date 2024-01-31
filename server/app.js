@@ -3,7 +3,12 @@ const bodyParser = require('body-parser');
 const { spawn } = require('child_process');
 const path = require('path'); 
 const cors = require('cors');
-app.use(cors());
+app.use(cors(
+    origin:["https://course-eta-six.vercel.app"],
+    methods:["POST","GET"],
+    credentials:true
+    }
+));
 
 const app = express();
 const port = 3000;
