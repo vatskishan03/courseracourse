@@ -1,8 +1,8 @@
 {
     "version": 2,
     "builds": [
-      { "src": "/app.js", "use": "@vercel/node" },
-      { "src": "/script.py", "use": "@vercel/python" }
+      { "src": "*.js", "use": "@vercel/node" },
+      { "src": "*.py", "use": "@vercel/python" }
     ],
     "routes": [
       { "src": "/(.*)", "dest": "/app.js" }
