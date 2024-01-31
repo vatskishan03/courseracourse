@@ -19,7 +19,6 @@ app.get('/public/style.css', (req, res) => {
     res.sendFile(path.join(__dirname, '..','public', 'style.css')); 
 });
 
-
 app.post("/courses", (req, res) => {
     const { company, difficulty, rating } = req.body;
 
