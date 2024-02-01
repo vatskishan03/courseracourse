@@ -6,7 +6,7 @@
     "start": "node app.js",
     "build": "npm run build:client && npm run build:server",
     "build:client": "parcel build public/index.html",
-    "build:server": "python script.py",
+    "build:server": "python3 -m pip install -r requirements.txt && python3 script.py",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
@@ -15,5 +15,8 @@
     "csv-parser": "^3.0.0",
     "python-shell": "*",
     "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
