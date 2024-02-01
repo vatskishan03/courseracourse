@@ -4,7 +4,7 @@ const { spawn } = require('child_process');
 const path = require('path'); 
 const cors = require('cors');
 app.use(cors(
-    origin:["https://course-eta-six.vercel.app"],
+    origin:["https://courseracourse.vercel.app"],
     methods:["POST","GET"],
     credentials:true
     }
