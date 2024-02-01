@@ -3,59 +3,59 @@ const bodyParser = require('body-parser');
 const { spawn } = require('child_process');
 const path = require('path'); 
 const cors = require('cors');
-app.use(cors(
-    origin:["https://courseracourse.vercel.app"],
-    methods:["POST","GET"],
-    credentials:true
-    }
-));
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
+
+app.use(cors({
+  origin: ["https://courseracourse.vercel.app"],
+  methods: ["POST", "GET"],
+  credentials: true
+}));
 
 app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname,'..', 'public', 'index.html')); 
+  res.sendFile(path.join(__dirname, '..', 'public', 'index.html')); 
 });
 
 app.get('/public/style.css', (req, res) => { 
-    res.setHeader('Content-Type', 'text/css');
-    res.sendFile(path.join(__dirname, '..','public', 'style.css')); 
+  res.setHeader('Content-Type', 'text/css');
+  res.sendFile(path.join(__dirname, '..', 'public', 'style.css')); 
 });
 
 app.post("/courses", (req, res) => {
-    const { company, difficulty, rating } = req.body;
+  const { company, difficulty, rating } = req.body;
 
-    const pythonProcess = spawn('python3', [path.join(__dirname, 'script.py'), company, difficulty, rating]);
+  const pythonProcess = spawn('python3', [path.join(__dirname, 'script.py'), company, difficulty, rating]);
 
-    pythonProcess.on('error', (error) => {
-        console.error(`Error initiating Python script: ${error}`);
-    });
+  pythonProcess.on('error', (error) => {
+    console.error(`Error initiating Python script: ${error}`);
+  });
 
-    let result = '';
+  let result = '';
 
-    pythonProcess.stdout.on('data', (data) => {
-        result += data.toString();
-    });
+  pythonProcess.stdout.on('data', (data) => {
+    result += data.toString();
+  });
 
-    pythonProcess.stdout.on('end', () => {
-        console.log(result);
-    });
+  pythonProcess.stdout.on('end', () => {
+    console.log(result);
+  });
 
-    pythonProcess.stderr.on('data', (data) => {
-        console.error(`Python script error: ${data}`);
-    });
+  pythonProcess.stderr.on('data', (data) => {
+    console.error(`Python script error: ${data}`);
+  });
 
-    pythonProcess.on('close', (code) => {
-        if (code === 0) {
-            res.json(JSON.parse(result));
-        } else {
-            res.status(500).send('Error in Python script');
-        }
-    });
+  pythonProcess.on('close', (code) => {
+    if (code === 0) {
+      res.json(JSON.parse(result));
+    } else {
+      res.status(500).send('Error in Python script');
+    }
+  });
 });
-const PORT = process.env.PORT || 3000;
+
 app.listen(port, () => {
-    console.log(`Server listening at http://localhost:${port}`);
+  console.log(`Server listening at http://localhost:${port}`);
 });
