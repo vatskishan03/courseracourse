@@ -5,6 +5,7 @@
     { "src": "api/", "use": "@vercel/python" } 
   ],
   "routes": [
-    { "src": "/courses", "dest": "/server/app.js" }
+    { "src": "/courses", "dest": "/server/app.js" },
+    { "src": "/api/script", "dest": "/api/script.py"}
   ]
 }
