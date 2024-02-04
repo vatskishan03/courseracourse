@@ -19,7 +19,7 @@ app.post("/courses", async (req, res) => {
   const { company, difficulty, rating } = req.body;
 
   try {
-    const response = await fetch(`/api/script?company=${company}&difficulty=${difficulty}&rating=${rating}`);
+    const response = await fetch(`/api/handler?company=${company}&difficulty=${difficulty}&rating=${rating}`);
     const data = await response.json();
     res.json(data);
   } catch (error) {
