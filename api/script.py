@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import os
 
-def handler(request):
+def script(request):
   query_params = request.query_params
   company = query_params.get("company")
   difficulty = query_params.get("difficulty")
