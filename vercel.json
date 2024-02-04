@@ -1,11 +1,11 @@
 {
   "version": 2,
   "builds": [
-    { "src": "server/", "use": "@vercel/node" },
-    { "src": "api/", "use": "@vercel/python" } 
+    { "src": "server/**/*.js", "use": "@vercel/node" },
+    { "src": "api/**/*.py", "use": "@vercel/python" }
   ],
   "routes": [
     { "src": "/courses", "dest": "/server/app.js" },
-    { "src": "/api/script", "dest": "/api/script.py"}
+    { "src": "/api/script", "dest": "/api/script.py" }
   ]
 }
