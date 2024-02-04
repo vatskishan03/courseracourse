@@ -5,8 +5,7 @@
   "scripts": {
     "start": "node app.js",
     "build": "npm install && npm install parcel-bundler --save-dev && npx parcel build public/index.html",
-    "vercel": "vercel",
-    "postinstall": "cd api && npm install"
+    "vercel": "vercel"   
   },
   "dependencies": {
     "express": "^4.17.1",
